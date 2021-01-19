@@ -9,15 +9,15 @@ color: brown;
 }
 .container{
     background-color: darkgray;
-width:120px;
-height:345px;
+width:130px;
+height:375px;
 }
 .item{
     height: 100px;
 width: 100px;
 border-radius: 50%;
 }
-.border-red{#box1 {
+#box1 {
     background-color: red;
 }
 
@@ -29,4 +29,3 @@ border-radius: 50%;
     background-color: green;
 }
     
-}
